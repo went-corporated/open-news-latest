@@ -1,0 +1,22 @@
+
+::-webkit-scrollbar{
+    width: 4px !important;
+    /* background-color: rgba(49, 49, 49, .219) !important; */
+    background-color: rgba(49, 49, 49, 0);
+    border-radius: 0 !important;
+    display: none;
+}
+::-webkit-scrollbar:hover{
+    background-color: rgba(49, 49, 49, .5) !important;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 0 !important;
+    background-color: rgba(180, 180, 180, .205);
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: rgba(180, 180, 180, .5);
+}
+::-webkit-scrollbar-thumb:active{
+    background-color: rgb(180, 180, 180);
+}

@@ -1,1 +1,1 @@
-# open-news-latest
+Open News · Toute l'info
